@@ -1,0 +1,6 @@
+| Test Case ID | Browser & OS         | Observed Behavior              | Expected Behavior         | Result                |
+| ------------ | -------------------- | ------------------------------ | ------------------------- | --------------------- |
+| TC-401       | Chrome on Windows 10 | Login passed                   | Should login successfully | ✅ Pass                |
+| TC-402       | Edge on Windows 10   | Login passed                   | Should login successfully | ✅ Pass                |
+| TC-403       | Safari on macOS      | Login failed once due to delay | Should login successfully | ⚠️ Retest recommended |
+| TC-404       | Firefox on Windows   | Login passed                   | Should login successfully | ✅ Pass                |
